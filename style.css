@@ -47,7 +47,7 @@ body {
     20%, 80% { width: 100%; }
 }
  
-@keyframes word{
+@keyframes words{
     0%, 25% {content: "The King"; }
     26%, 50% {content: "The Run Machine"; }
     51%, 75% {content: "The Chase Master"; }
