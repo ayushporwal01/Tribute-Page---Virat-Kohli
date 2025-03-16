@@ -6,7 +6,14 @@
     user-select: none;
 }
 
-
+:root {
+    --primary-color: #ffca15;
+    --body-color: #ddd;
+    --bg-color: #1e1e1e;
+    --bg-color2: #0085ca;
+    --bg-color3: #ff5733;
+    --hover-color: #ff4500;
+}
 
 html {
     scroll-behavior: smooth;
