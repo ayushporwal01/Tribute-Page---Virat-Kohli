@@ -27,16 +27,7 @@ body {
 }
 
 /* KeyFrames */
-@keyframes slideRight {
-    from {
-         transform: translateX(-100%);
-         opacity: 0;
-    }
-    to {
-         transform: translateX(0%);
-         opacity: 1;
-    }
-}
+
 
 @keyframes blink {
     50% { border-color: transparent; }
