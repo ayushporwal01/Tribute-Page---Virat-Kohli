@@ -2,6 +2,7 @@
 
 This is a responive tribute page/ website dedicated to the cricket legend, **Virat Kohli**. It showcases his inspiring journey, remarkable achievements , career milestones , and the immense impact he has had on Indian cricket.
 <br>
+<br>
 **Note:** - This is the first project in my web development journey that i successfully completed.
 
 ## Screenshots
