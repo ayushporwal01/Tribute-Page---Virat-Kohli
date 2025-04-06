@@ -7,7 +7,7 @@ This is a responive tribute page/ website dedicated to the cricket legend, Virat
 
 <h3>1. Hero Section<h3>
   
-![Screenshot](https://imgur.com/a/8wwvtmT)
+![Screenshot](https://i.imgur.com/yCEyvrr.png)
 
 <h3>2. About Section<h3>
   
