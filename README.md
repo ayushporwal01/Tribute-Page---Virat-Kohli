@@ -4,12 +4,16 @@ This is a responive tribute page/ website dedicated to the cricket legend, **Vir
 <br>
 <br>
 **Note:** - This is the first project in my web development journey that i successfully completed.
+<br>
+<br>
 
 ## Tech Stack
 
 HTML5
 
 CSS3
+<br>
+<br>
 
 ## Screenshots
 
@@ -32,7 +36,8 @@ CSS3
 ### 5. Gallery Section<h3>
   
 ![Screenshot](https://i.imgur.com/YiG6P3F.png)
-
+<br>
+<br>
 
 ## Run Locally
 
@@ -49,6 +54,8 @@ Go to the project directory
 ```
 
 Open index.html with Live Server
+<br>
+<br>
 
 ## Feedback
 
