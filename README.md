@@ -7,24 +7,24 @@ This is a responive tribute page/ website dedicated to the cricket legend, Virat
 
 <h3>1. Hero Section<h3>
   
-![Screenshot](https://i.imgur.com/yCEyvrr.png)
+![Screenshot]()
 <br>
 
 <h3>2. About Section<h3>
   
-![Screenshot](https://imgur.com/a/zDJq9KQ)
+![Screenshot](https://i.imgur.com/OWX0VoQ.png)
 
 <h3>3. Highlights Section<h3>
   
-![Screenshot](https://imgur.com/a/8wwvtmT)
+![Screenshot](https://i.imgur.com/I7svbhb.png)
 
 <h3>4. Achievements Section<h3>
   
-![Screenshot](https://imgur.com/qVHdFyZ)
+![Screenshot](http://i.imgur.com/qVHdFyZ.png)
 
 <h3>5. Gallery Section<h3>
   
-![Screenshot](https://imgur.com/YiG6P3F)
+![Screenshot](https://i.imgur.com/YiG6P3F.png)
 
 
 ## Run Locally
