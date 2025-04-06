@@ -5,6 +5,12 @@ This is a responive tribute page/ website dedicated to the cricket legend, **Vir
 <br>
 **Note:** - This is the first project in my web development journey that i successfully completed.
 
+## Tech Stack
+
+HTML5
+
+CSS3
+
 ## Screenshots
 
 ### 1. Hero Section<h3>
@@ -43,12 +49,6 @@ Go to the project directory
 ```
 
 Open index.html with Live Server
-
-## Tech Stack
-
-HTML5
-
-CSS3
 
 ## Feedback
 
