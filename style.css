@@ -5,7 +5,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: "Poppins", sans-serif;
+    font-family: "Poppins", "Roboto", sans-serif;
     user-select: none;
 }
 
@@ -100,7 +100,7 @@ nav ul li a:hover {
 }
 
 .hero-left {
-    flex: 0, 1, auto;
+    flex: 0 1 auto;
     display: flex;
     flex-direction: column;
     justify-content: center;
