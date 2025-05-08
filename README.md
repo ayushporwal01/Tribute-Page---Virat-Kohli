@@ -60,6 +60,8 @@ Open index.html with Live Server
 ## Feedback
 
 If you have any feedback, please reach out to me at porwalayush953@gmail.com
+<br>
+Don't forget to leave a star ⭐️
 
 
 
