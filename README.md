@@ -1,7 +1,7 @@
 # Virat Kohli - Tribute Page
 
 This is a responsive Tribute Page dedicated to  —  Virat Kohli, the greatest cricketer of all time🔥. 
-It Showcases his journey, record-breaking achievements, and lasting impact on Indian cricket.
+<br>It Showcases his journey, record-breaking achievements, and lasting impact on Indian cricket.
 <br>
 <br>
 
